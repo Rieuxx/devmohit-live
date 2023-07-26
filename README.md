@@ -32,10 +32,10 @@
   </div>
 
 <!--   about -->
-<h3>The Questions You May Have 👱🏼</h3>
+<h3>Aklınıza takılabilecek sorular 👱🏼</h3>
 
-<summary> Who are you? ❓</summary><pre>
-A Philomath who loves to transform ideas into code.
+<summary> Kimsin sen? ❓</summary><pre>
+fikirleri dönüştürüp kodlamaya aktarılmasını seven bir matfil'iyim.
 A 2021 Information technology grad having a keen intrest in DevOps and Cloud Computing Technologies <br>
 My name describes my qualities,
 M: Motivated Learner
